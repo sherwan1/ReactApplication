@@ -7,6 +7,7 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import BackgroundImage from 'react-background-image-loader';
 import { ListGroup, ListGroupItem, ListGroupItemHeading, ListGroupItemText } from 'reactstrap';
 
+//Navigation Bar Component and routest to other components using React Router
 class Navigation extends React.Component{
       render(){
         return(
